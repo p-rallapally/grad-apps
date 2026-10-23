@@ -17,13 +17,13 @@ Last updated: 10/22.
 | Program | Deadline | Recommendation due | Portal status | 
 |---|---|---|---|---|
 | UW Biostatistics PhD | 12/1 | TBD |  
-| Michigan Biostatistics PhD | 12/1 | TBD |  | 
-| UNC Chapel Hill Biostatistics PhD | 12/1 | TBD |  | 
-| Johns Hopkins Biostatistics ScM | 12/1 | TBD |  | 
+| Michigan Biostatistics PhD | 12/1 | TBD | 
+| UNC Chapel Hill Biostatistics PhD | 12/1 | TBD | 
+| Johns Hopkins Biostatistics ScM | 12/1 | TBD |
 | Columbia Biostatistics PhD | 12/1 | TBD |  | 
-| UC Berkeley Biostatistics PhD | 12/1 | TBD |  | 
-| Minnesota Biostatistics PhD | 12/1 | TBD |  |
-| UCLA Biostatistics PhD | 12/1 | TBD |  | 
+| UC Berkeley Biostatistics PhD | 12/1 | TBD |  
+| Minnesota Biostatistics PhD | 12/1 | TBD | 
+| UCLA Biostatistics PhD | 12/1 | TBD |  
 Each portal will email you directly with a link to submit your letter.
 
 ## What the statements say
