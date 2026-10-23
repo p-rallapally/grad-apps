@@ -7,7 +7,7 @@ Last updated: 10/22.
 
 ## Quick links
 - [My CV](cv.pdf)
-- [Your recommender brief](recommender-briefs/) (one page, specific to you)
+
 
 ## What I'm applying for
 [2-3 sentences: PhD in biostatistics, research interest, long-term goal]
