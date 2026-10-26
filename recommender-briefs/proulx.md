@@ -13,7 +13,7 @@
   - Initial proposal had hierarchical models and multilayer ecological networks to better understand interactions among pond systems
   - Subsequently developed the project toward investigating network rewiring, including how host–parasite relationships change across time and in the presence of invasive species
   - Constructed bipartite networks from longitudinal ecological observations and applied a dissimilarity-partitioning framework to investigate these mechanisms
-  - Independently made methodological decisions regarding network representation, interaction weighting, comparison eligibility, and sampling effort; found that 
+  - Independently made methodological decisions regarding network representation, interaction weighting, comparison eligibility, and sampling effort
   - Currently preparing a co-first-authored manuscript based on this work (with Kacie Ring)
 
  
