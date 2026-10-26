@@ -31,8 +31,12 @@ Program list is still somewhat fluid; I don't anticipate adding much more (if an
 
 Each portal will email you directly with a link to submit your letter.
 
-## What the statements say
-[3-4 bullets on the themes running through my statements]
+## What the statements say (the gist)
+- From biology to statistics: My research experiences gradually shifted my interests from applying quantitative methods to biological problems toward understanding and developing the statistical methods themselves.
+- Research development and independence: Experiences at NITMB, the Briggs Lab, and through the Worster Fellowship helped me develop greater mathematical curiosity,  independence, and confidence in making and defending methodological decisions.
+- Why biostatistics: I'm interested in statistical methodology for complex, evolving systems, particularly network-structured and longitudinal data, while remaining closely connected to public health questions/applications.
+- Long-term goals: I hope to become a biostatistician who can both develop rigorous statistical methods and translate their findings into accessible, actionable information for interdisciplinary collaborators and public health decisionmakers
+
 
 ## Changes
 I update this repo whenever I revise materials.
