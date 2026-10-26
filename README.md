@@ -14,7 +14,7 @@ Last updated: 10/25.
 
 ## Programs and deadlines
 
-Program list is still somewhat fluid; I don't anticipate more (if any) programs; the deadline will **not** be earlier than 12/1!
+Program list is still somewhat fluid; I don't anticipate adding much more (if any) programs; the deadline will **not** be earlier than 12/1!
 
 | Program | Deadline | Recommendation Due | Portal Status |
 | --- | --- | --- | --- |
