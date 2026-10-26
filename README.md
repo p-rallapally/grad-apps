@@ -3,7 +3,7 @@
 Thank you very much for writing on my behalf! Everything you need is on this page.
 Questions or suggestions? Feel free to email me at [prallapally@ucsb.edu] or text [925-667-8418].
 
-Last updated: 10/22. 
+Last updated: 10/25. 
 
 ## Quick links
 - [My CV](cv.pdf)
@@ -16,14 +16,15 @@ Last updated: 10/22.
 
 | Program | Deadline | Recommendation Due | Portal Status |
 | --- | --- | --- | --- |
-| UW Biostatistics PhD | 12/1 | TBD |  |
-| Michigan Biostatistics PhD | 12/1 | TBD |  |
-| UNC Chapel Hill Biostatistics PhD | 12/1 | TBD |  |
-| Johns Hopkins Biostatistics ScM | 12/1 | TBD |  |
-| Columbia Biostatistics PhD | 12/1 | TBD |  |
-| UC Berkeley Biostatistics PhD | 12/1 | TBD |  |
-| Minnesota Biostatistics PhD | 12/1 | TBD |  |
+| UW Biostatistics PhD | 12/1 | 12/1 |  |
+| Michigan Biostatistics PhD | 12/1 | 12/1 |  |
+| UNC Chapel Hill Biostatistics PhD | 12/1 | 12/1 |  |
+| Johns Hopkins Biostatistics ScM | 12/1 | 12/1 |  |
+| Columbia Biostatistics PhD | 12/1 | 12/1 |  |
+| UC Berkeley Biostatistics PhD | 12/1 | 12/1 |  |
+| Minnesota Biostatistics PhD | 12/1 | 12/1 |  |
 | UCLA Biostatistics PhD | 12/1 | TBD |  |
+| Brown Biostatistics ScM | 1/17 | 1/17 | | 
 
 Each portal will email you directly with a link to submit your letter.
 
