@@ -18,7 +18,7 @@ Program list is still somewhat fluid; I don't anticipate adding much more (if an
 
 | Program | Deadline | Recommendation Due | Portal Status |
 | --- | --- | --- | --- |
-| [UW Biostatistics PhD]([url](https://www.biostat.washington.edu/)) | 12/1 | 12/1 |  |
+| [UW Biostatistics PhD](https://www.biostat.washington.edu/) | 12/1 | 12/1 |  |
 | [Michigan Biostatistics PhD]([url](https://sph.umich.edu/biostat/)) | 12/1 | 12/1 |  |
 | [UNC Chapel Hill Biostatistics PhD]([url](https://sph.unc.edu/bios/biostatistics/)) | 12/1 | 12/1 |  |
 | [Columbia Biostatistics PhD]([url](https://www.publichealth.columbia.edu/academics/departments/biostatistics)) | 12/1 | 12/1 |  |
