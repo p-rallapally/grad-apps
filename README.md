@@ -6,7 +6,7 @@ Questions or suggestions? Feel free to email me at [prallapally@ucsb.edu] or tex
 Last updated: 10/25. 
 
 ## Quick links
-- [My CV](cv.pdf)
+- [My CV](https://github.com/p-rallapally/grad-apps/blob/main/Rallapally%20CV.docx.pdf)
 
 
 ## What I'm applying for
