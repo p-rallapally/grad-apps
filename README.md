@@ -1,7 +1,7 @@
 # Grad school application materials
 
 Thank you very much for writing on my behalf! Everything you need is on this page.
-Questions or suggestions? Feel free to email me at [prallapally@ucsb.edu] or text [925-667-8418].
+If you have any questions/suggestions, please feel free to email me at [prallapally@ucsb.edu] or text [925-667-8418].
 
 Last updated: 10/25. 
 
