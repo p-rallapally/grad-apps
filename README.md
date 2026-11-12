@@ -3,7 +3,7 @@
 Thank you very much for writing on my behalf! 
 If you have any questions/suggestions, please feel free to email me at [prallapally@ucsb.edu] or text [925-667-8418].
 
-Last updated: 10/25. 
+Last updated: 11/10. 
 
 ## Quick links
 - [My CV](https://github.com/p-rallapally/grad-apps/blob/main/Rallapally%20CV.docx.pdf)
