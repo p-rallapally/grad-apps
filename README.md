@@ -20,14 +20,14 @@ Program list is still somewhat fluid; I don't anticipate adding much more (if an
 |---|---|---|---|
 | [UW Biostatistics PhD](https://www.biostat.washington.edu/) | 12/1 | 12/1 | Sent ✅ |
 | [Michigan Biostatistics PhD](https://sph.umich.edu/biostat/) | 12/1 | 12/1 | Sent ✅ |
-| [UNC Chapel Hill Biostatistics PhD](https://sph.unc.edu/bios/biostatistics/) | 12/1 | 12/1 | |
-| [Columbia Biostatistics PhD](https://www.publichealth.columbia.edu/academics/departments/biostatistics) | 12/1 | 12/1 | |
+| [UNC Chapel Hill Biostatistics PhD](https://sph.unc.edu/bios/biostatistics/) | 12/1 | 12/1 | Sent ✅|
+| [Columbia Biostatistics PhD](https://www.publichealth.columbia.edu/academics/departments/biostatistics) | 12/1 | 12/1 | Sent ✅|
 | [UPenn Biostatistics PhD](https://www.med.upenn.edu/ggeb/about-biostatistics.html) | 12/1 | 12/1 | |
 | [UC Berkeley Biostatistics PhD](https://publichealth.berkeley.edu/academics/biostatistics) | 12/1 | 12/1 | |
-| [Minnesota Biostatistics PhD](https://www.sph.umn.edu/academics/divisions/biostatistics/) | 12/1 | 12/1 | |
-| [UCLA Biostatistics PhD](https://ph.ucla.edu/departments/biostatistics) | 12/1 | 12/1 | |
-| [Johns Hopkins Biostatistics ScM](https://publichealth.jhu.edu/academics/scm-dept-of-biostatistics) | 12/1 | 12/1 | |
-| [Brown Biostatistics ScM](https://biostatistics.sph.brown.edu/academics/masters-programs) | 1/17 | 1/17 | |
+| [Minnesota Biostatistics PhD](https://www.sph.umn.edu/academics/divisions/biostatistics/) | 12/1 | 12/1 | Sent ✅|
+| [UCLA Biostatistics PhD](https://ph.ucla.edu/departments/biostatistics) | 12/1 | 12/1 | Sent ✅|
+| [Johns Hopkins Biostatistics ScM](https://publichealth.jhu.edu/academics/scm-dept-of-biostatistics) | 12/1 | 12/1 | Sent ✅|
+| [Brown Biostatistics ScM](https://biostatistics.sph.brown.edu/academics/masters-programs) | 1/17 | 1/17 | Sent ✅|
 
 Each portal will email you directly with a link to submit your letter.
 
