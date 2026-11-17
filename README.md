@@ -22,7 +22,7 @@ Program list is still somewhat fluid; I don't anticipate adding much more (if an
 | [Michigan Biostatistics PhD](https://sph.umich.edu/biostat/) | 12/1 | 12/1 | Sent ✅ |
 | [UNC Chapel Hill Biostatistics PhD](https://sph.unc.edu/bios/biostatistics/) | 12/1 | 12/1 | Sent ✅|
 | [Columbia Biostatistics PhD](https://www.publichealth.columbia.edu/academics/departments/biostatistics) | 12/1 | 12/1 | Sent ✅|
-| [UPenn Biostatistics PhD](https://www.med.upenn.edu/ggeb/about-biostatistics.html) | 12/1 | 12/1 | |
+| [UPenn Biostatistics PhD](https://www.med.upenn.edu/ggeb/about-biostatistics.html) | 12/1 | 12/1 | Sent ✅|
 | [UC Berkeley Biostatistics PhD](https://publichealth.berkeley.edu/academics/biostatistics) | 12/1 | 12/1 | Sent ✅ |
 | [Minnesota Biostatistics PhD](https://www.sph.umn.edu/academics/divisions/biostatistics/) | 12/1 | 12/1 | Sent ✅|
 | [UCLA Biostatistics PhD](https://ph.ucla.edu/departments/biostatistics) | 12/1 | 12/1 | Sent ✅|
